@@ -9,7 +9,7 @@ package nio.common;
  *
  * Created by jj
  */
-public class MessageBuffer {
+public class MessageBuffer { 
 
 	public static int KB = 1024;
 	public static int MB = 1024 * KB;
